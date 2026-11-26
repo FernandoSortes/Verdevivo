@@ -1,0 +1,38 @@
+Coloque aqui as fotos reais dos produtos (JPG/PNG/WEBP) com EXATAMENTE estes nomes,
+ou envie pelo painel admin (Produtos > Editar > Imagem).
+Sem arquivo, a loja mostra assets/imagens/padrao.svg.
+
+samambaia-americana.jpg  <-  Samambaia Americana
+suculenta-echeveria.jpg  <-  Suculenta Echeveria
+orquidea-phalaenopsis.jpg  <-  Orquídea Phalaenopsis
+vaso-de-ceramica-m.jpg  <-  Vaso de Cerâmica M
+vaso-autoirrigavel.jpg  <-  Vaso Autoirrigável
+pa-de-jardinagem.jpg  <-  Pá de Jardinagem
+tesoura-de-poda.jpg  <-  Tesoura de Poda
+terra-vegetal-5kg.jpg  <-  Terra Vegetal 5kg
+adubo-organico-1kg.jpg  <-  Adubo Orgânico 1kg
+rosa-do-deserto.jpg  <-  Rosa do Deserto
+hibisco-tropical.jpg  <-  Hibisco Tropical
+lavanda-inglesa.jpg  <-  Lavanda Inglesa
+cacto-mandacaru-mini.jpg  <-  Cacto Mandacaru Mini
+haworthia-zebrina.jpg  <-  Haworthia Zebrina
+aloe-vera-babosa.jpg  <-  Aloe Vera (Babosa)
+muda-de-limoeiro-siciliano.jpg  <-  Muda de Limoeiro Siciliano
+muda-de-pitangueira.jpg  <-  Muda de Pitangueira
+muda-de-morangueiro.jpg  <-  Muda de Morangueiro
+jiboia.jpg  <-  Jiboia
+zamioculca.jpg  <-  Zamioculca
+costela-de-adao.jpg  <-  Costela-de-Adão
+buganvilia.jpg  <-  Buganvília
+jasmim-manga.jpg  <-  Jasmim-Manga
+vaso-decorativo-concreto-g.jpg  <-  Vaso Decorativo Concreto G
+cachepo-de-vime.jpg  <-  Cachepô de Vime
+substrato-para-suculentas-2kg.jpg  <-  Substrato para Suculentas 2kg
+humus-de-minhoca-4kg.jpg  <-  Húmus de Minhoca 4kg
+fertilizante-npk-10-10-10-500g.jpg  <-  Fertilizante NPK 10-10-10 500g
+adubo-liquido-para-orquideas.jpg  <-  Adubo Líquido para Orquídeas
+luvas-de-jardinagem.jpg  <-  Luvas de Jardinagem
+regador-5-litros.jpg  <-  Regador 5 Litros
+sementes-de-manjericao.jpg  <-  Sementes de Manjericão
+sementes-de-girassol.jpg  <-  Sementes de Girassol
+sementes-de-tomate-cereja.jpg  <-  Sementes de Tomate Cereja
